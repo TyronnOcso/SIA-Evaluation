@@ -1,3 +1,5 @@
  SIA-Evaluation
- # SIA-Evaluation
-#SIA-Evaluation
+Members: Joseph June Joe
+John Tyronn Ocso
+John Kenneth Sinay
+
